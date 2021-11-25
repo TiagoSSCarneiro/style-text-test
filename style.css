@@ -1,0 +1,67 @@
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita{
+    text-align: right;
+}
+
+.alinhado-centro{
+    text-align: center;
+}
+
+.alinhado-justificado {
+    text-align: justify;
+}
+
+.maiuscula{
+    text-transform: uppercase;
+}
+
+.capitalizado{
+    text-transform: capitalize;
+}
+
+.minusculas {
+    text-transform: lowercase;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
+.sem-estilo {
+    text-decoration: none;
+}
+
+.altura-entre-linhas {
+    line-height: 25px;
+
+}
+
+.sombra {
+    text-shadow: 2px 2px 1px rgb(161, 161, 161);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.fundo-alinhamento{
+    background-color: rgb(120, 169, 192);
+}
+
+.fundo-transform {
+    background-color: rgb(136, 252, 232);
+}
